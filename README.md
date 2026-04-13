@@ -1,4 +1,6 @@
 ## Description
+![Terminal Screenshot](assets/ss.png)
+
 TERMINUS is a modular terminal-based security and system optimization suite developed for Linux environments. It provides a centralized interface for process monitoring, network analysis, android bridge debugging, and kernel-level memory management.
 
 ## Installation
